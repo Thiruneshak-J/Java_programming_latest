@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/practice_jdbc/practice_jdbc.iml" filepath="$PROJECT_DIR$/practice_jdbc/practice_jdbc.iml" />
       <module fileurl="file://$PROJECT_DIR$/practice_tcs/practice_tcs.iml" filepath="$PROJECT_DIR$/practice_tcs/practice_tcs.iml" />
       <module fileurl="file://$PROJECT_DIR$/project/project.iml" filepath="$PROJECT_DIR$/project/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/small_projects/small_projects.iml" filepath="$PROJECT_DIR$/small_projects/small_projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/stack_vector/stack_vector.iml" filepath="$PROJECT_DIR$/stack_vector/stack_vector.iml" />
       <module fileurl="file://$PROJECT_DIR$/staff_dept_connection/staff_dept_connection.iml" filepath="$PROJECT_DIR$/staff_dept_connection/staff_dept_connection.iml" />
       <module fileurl="file://$PROJECT_DIR$/../tcs/tcs.iml" filepath="$PROJECT_DIR$/../tcs/tcs.iml" />

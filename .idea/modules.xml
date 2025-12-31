@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array_list/Array_list.iml" filepath="$PROJECT_DIR$/Array_list/Array_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String_exercise_2/String_exercise_2.iml" filepath="$PROJECT_DIR$/String/String_exercise_2/String_exercise_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array_linked_list/array_linked_list.iml" filepath="$PROJECT_DIR$/array_linked_list/array_linked_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic/basic.iml" filepath="$PROJECT_DIR$/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calliber_interconnects/calliber_interconnects.iml" filepath="$PROJECT_DIR$/calliber_interconnects/calliber_interconnects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cts/cts.iml" filepath="$PROJECT_DIR$/cts/cts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/excep_hand/excep_hand.iml" filepath="$PROJECT_DIR$/excep_hand/excep_hand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise/exercise.iml" filepath="$PROJECT_DIR$/exercise/exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/exercise_2/exercise_2.iml" filepath="$PROJECT_DIR$/array/exercise_2/exercise_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git_test/git_test.iml" filepath="$PROJECT_DIR$/git_test/git_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashset/hashset.iml" filepath="$PROJECT_DIR$/hashset/hashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops/oops.iml" filepath="$PROJECT_DIR$/oops/oops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_jdbc/practice_jdbc.iml" filepath="$PROJECT_DIR$/practice_jdbc/practice_jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_tcs/practice_tcs.iml" filepath="$PROJECT_DIR$/practice_tcs/practice_tcs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project/project.iml" filepath="$PROJECT_DIR$/project/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stack_vector/stack_vector.iml" filepath="$PROJECT_DIR$/stack_vector/stack_vector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staff_dept_connection/staff_dept_connection.iml" filepath="$PROJECT_DIR$/staff_dept_connection/staff_dept_connection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tcs/tcs.iml" filepath="$PROJECT_DIR$/../tcs/tcs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_1/test_1.iml" filepath="$PROJECT_DIR$/test_1/test_1.iml" />
+    </modules>
+  </component>
+</project>
